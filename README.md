@@ -10,4 +10,5 @@ git add <filename>: to add changes to file
 git commit: to commit the changes we use git commit
 
 To push changes to git branch
+    
     git push origin <branchname>
