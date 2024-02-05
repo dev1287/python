@@ -42,24 +42,3 @@ print("SP of Wheat  :", sp_of_wheat)
 total_sp = sp_of_rice + sp_of_wheat
 print("Total SP     :", total_sp)
 
-"""
-Enter Qty. of Rice  (in Kgs):3
-Qty of Rice  : 3 <class 'str'>
-@priyanka3prakash ➜ /workspaces/pythonJan2024/02_Arithmetic_Operations (class06) $ python d_grocery_store.py 
-Enter Qty. of Rice  (in Kgs):2.3
-Qty of Rice  : 2.3 <class 'str'>
-@priyanka3prakash ➜ /workspaces/pythonJan2024/02_Arithmetic_Operations (class06) $ python d_gr
-ocery_store.py 
-Enter Qty. of Rice  (in Kgs):True
-Qty of Rice  : True <class 'str'>
-@priyanka3prakash ➜ /workspaces/pythonJan2024/02_Arithmetic_Operations (class06) $ python d_gr
-ocery_store.py 
-Enter Qty. of Rice  (in Kgs):32434234
-Qty of Rice  : 32434234 <class 'str'>
-@priyanka3prakash ➜ /workspaces/pythonJan2024/02_Arithmetic_Operations (class06) $ python d_gr
-ocery_store.py 
-Enter Qty. of Rice  (in Kgs):None
-Qty of Rice  : None <class 'str'>
-@priyanka3prakash ➜ /workspaces/pythonJan2024/02_Arithmetic_Operations (class06) $ 
-
-"""

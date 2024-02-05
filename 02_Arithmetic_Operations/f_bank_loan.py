@@ -40,3 +40,4 @@ print("total amount to pay:", payable_amount)
 # Assignment
 # 1. Compound Interest Calculation
 #     ref: https://www.calculatorsoup.com/calculators/financial/compound-interest-calculator.php
+
