@@ -77,6 +77,12 @@ print("name[2:4:-1]      :", name[2:4:-1])  # name[2:4:-1]
 # input : today is good day
 # output: yadot si doog yad
 
+language = "this is python programming"
+
+x = language.split()
+newx = [gy[::-1] for gy in x]
+output = "-".join(newx)
+print(output)
 
 # positive indexing
 print("name[4:]            :", name[4:])  # name[4:12:+1]

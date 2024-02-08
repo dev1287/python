@@ -102,6 +102,18 @@ print('"12 34".isnumeric()    :', "12 34".isnumeric())
 print('"123edsd".isnumeric()  :', "123edsd".isnumeric())
 print()
 # assignment str.isdigit vs str.isnumeric
+decimal_one = '123780264'
+decimal_two = '1234569\u00BC' #gives true for numeric and false for digit
+decimal_three = '1234569 '
+print(decimal_one.isdigit())
+print(decimal_one.isnumeric())
+print(decimal_two.isdigit())
+print(decimal_two.isnumeric())
+print(decimal_three.isdigit())
+print(decimal_three.isnumeric())
+
+
+
 
 
 print('"abcD".isalpha()     :', "abcD".isalpha())
